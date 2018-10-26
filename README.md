@@ -1,2 +1,2 @@
 # gitpod-test
-This is a test for gitpod
+This is a test for gitpod IDE
